@@ -1,0 +1,47 @@
+[
+ {
+  "id": "idf",
+  "name": "Île-de-France",
+  "roads": {
+   "bytes": 27156230,
+   "tiles": 1322,
+   "parts": [
+    {
+     "url": "https://wassimpratique.github.io/lanenav-packs/idf-roads-1.bin",
+     "manifest": "https://wassimpratique.github.io/lanenav-packs/idf-roads-1.json",
+     "bytes": 27156230,
+     "tiles": 1322
+    }
+   ]
+  },
+  "world": {
+   "bytes": 172770215,
+   "tiles": 1383,
+   "parts": [
+    {
+     "url": "https://wassimpratique.github.io/lanenav-packs/idf-world-1.bin",
+     "manifest": "https://wassimpratique.github.io/lanenav-packs/idf-world-1.json",
+     "bytes": 93949236,
+     "tiles": 590
+    },
+    {
+     "url": "https://wassimpratique.github.io/lanenav-packs/idf-world-2.bin",
+     "manifest": "https://wassimpratique.github.io/lanenav-packs/idf-world-2.json",
+     "bytes": 78820979,
+     "tiles": 793
+    }
+   ]
+  }
+ },
+ {
+  "id": "france",
+  "name": "France entière",
+  "roads": {
+   "bytes": 0
+  },
+  "world": {
+   "bytes": 0
+  },
+  "soon": true
+ }
+]
